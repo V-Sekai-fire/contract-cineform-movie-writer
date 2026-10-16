@@ -69,7 +69,7 @@ jobs:
           - { platform: windows, arch: x86_64, os: windows-latest }
           - { platform: linux, arch: x86_64, os: ubuntu-22.04 }
           - { platform: linux, arch: arm64, os: ubuntu-24.04-arm }
-          - { platform: macos, arch: arm64, os: macos-14 }
+          - { platform: macos, arch: arm64, os: macos-15 }
         build-type: [Release, Debug]
         # double is for engines built with precision=double.
         precision: [single, double]
