@@ -5,7 +5,7 @@ A GDExtension that gives the engine's movie recording a CineForm writer, claimed
 ## What it is for
 
 It lets a Godot project record its frames straight to a wavelet intermediate codec whose licence
-matches the workspace's own, so nothing LGPL enters an export. RFD 1123 owns the design, and
+matches the workspace's own, so nothing LGPL enters an export. RFD66606-1123 owns the design, and
 `demo/` is a project that loads the addon.
 
 ## Build
